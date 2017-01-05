@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.asynccallback;
+package app.lib.asynccallback;
 
 import java.lang.ref.WeakReference;
 

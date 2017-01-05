@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.asynccallback;
+package app.lib.asynccallback;
 
 /**
  * Created by chenhao on 16/12/22.
